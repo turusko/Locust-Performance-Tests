@@ -1,0 +1,1 @@
+The two folders here repesent seperate applications and should be treated as so 
